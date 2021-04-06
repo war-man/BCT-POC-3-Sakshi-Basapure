@@ -1,5 +1,5 @@
 ## E-Commerce Backend
-An E-Commerce Backend application is created by .NET Core 5.0 Microsoft, using VS Code and SQL Server Management Studio. This has been created according to the guidelines given for POC 3 by BCT L&D team.
+An E-Commerce Backend application is created by .NET Core 5.0, using VS Code and Microsoft SQL Server Management Studio. This has been created according to the guidelines given for POC 3 by BCT L&D team.
 
 ### Tools and Frameworks used
 - Visual Studio 2019
