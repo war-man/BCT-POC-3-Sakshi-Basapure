@@ -35,9 +35,9 @@ namespace eCommerce.Controllers
         }
 
         /// <summary>
-        /// Get the list of available books
+        /// Get the list of available products
         /// </summary>
-        /// <returns>List of Book</returns>
+        /// <returns>List of Products</returns>
         [HttpGet]
         public async Task<List<Product>> Get()
         {
@@ -45,7 +45,7 @@ namespace eCommerce.Controllers
         }
 
         /// <summary>
-        /// Get the specific book data corresponding to the BookId
+        /// Get the specific product data corresponding to the ProductId
         /// </summary>
         /// <param name="id"></param>
         /// <returns></returns>
@@ -74,7 +74,7 @@ namespace eCommerce.Controllers
 
 
         /// <summary>
-        /// Add a new book record
+        /// Add a new productrecord
         /// </summary>
         /// <returns></returns>
         [HttpPost, DisableRequestSizeLimit]
@@ -106,7 +106,7 @@ namespace eCommerce.Controllers
         }
 
         /// <summary>
-        /// Update a particular book record
+        /// Update a particular product record
         /// </summary>
         /// <returns></returns>
         [HttpPut]
@@ -138,7 +138,7 @@ namespace eCommerce.Controllers
         }
 
         /// <summary>
-        /// Delete a particular book record
+        /// Delete a particular product record
         /// </summary>
         /// <param name="id"></param>
         /// <returns></returns>
