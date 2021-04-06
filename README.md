@@ -14,8 +14,8 @@ An E-Commerce Backend application is created by .NET Core 5.0 Microsoft, using V
 4. Open and put your connection string in appsettings.json file. 
 5. Hit ```Ctrl+Shift+B``` to build.
 6. Enter ``` dotnet ef database update ```
-7. Scaffold the database using the DataScript.sql for seed data
-8. Hit ```Ctrl+F5``` to run without debugging
+7. Scaffold the database using the DataScript.sql for seed data in SSMS
+8. Enter ```dotnet run``` 
  
 
 
