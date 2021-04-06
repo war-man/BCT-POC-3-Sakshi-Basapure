@@ -12,10 +12,10 @@ Microsoft SQL Server Management Studio 18
 2. Enter ``` cd eCommerce ```
 3. Open the eCommerce.sln in VS Code
 4. Open and put your connection string in appsettings.json file. 
-5. Hit Ctrl+Shift+B to build.
+5. Hit ```Ctrl+Shift+B``` to build.
 6. Enter ``` dotnet ef database update ```
 7. Scaffold the database using the DataScript.sql for seed data
-8. Hit Ctrl+F5 to run without debugging
+8. Hit ```Ctrl+F5``` to run without debugging
  
 
 
