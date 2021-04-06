@@ -2,10 +2,10 @@
 An E-Commerce Backend application is created by .NET Core 5.0 Microsoft, using VS Code and SQL Server Management Studio. This has been created according to the guidelines given for POC 3 by BCT L&D team.
 
 ### Tools and Frameworks used
-Visual Studio 2019
-NET Core 5.0 SDK 
-Entity Framework Core 
-Microsoft SQL Server Management Studio 18
+- Visual Studio 2019
+- NET Core 5.0 SDK 
+- Entity Framework Core 
+- Microsoft SQL Server Management Studio 18
  
  ### SetUp
 1. Clone this repository: https://github.com/sakshibasapure/BCT-POC-3-Sakshi-Basapure.git
